@@ -3,5 +3,5 @@ green
 orange
 yellow
 purple
-pink
+indigo
 This is my rainbow poem.
