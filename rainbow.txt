@@ -4,6 +4,7 @@ orange
 unicorn
 purple
 indigo
+recycle
 This is my rainbow poem.
 and unicorn poem
 this is fairies 
